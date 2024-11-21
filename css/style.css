@@ -1,0 +1,101 @@
+	body{
+		background-color: #E8D2CD;
+		font-family: 'Comic Sans MS';
+		color: #213a9c;}
+  
+
+	h1 {
+		font-size: 60px;
+		text-align: center;
+		padding-left: 100px;
+		font-family: 'Comic Sans MS', 'Arial Black', 'Calibri';
+		text-decoration: underline;
+		  }
+		
+	h3{
+		font-size: 15px;
+		text-align: center;
+		padding-left: 30px;
+		font-family: 'Comic Sans MS', 'Arial Black';
+		}
+  
+  
+	ul{ 
+		font-size: 15px;
+		text-align: left;
+		padding-left: 60px;
+		font-family:'Comic Sans MS', 'Arial Black';
+		} 
+		
+		.courttexte {
+		font-size: 15px;
+		text-align: center;
+		padding-left: 60px;
+		font-family:'Comic Sans MS', 'Arial Black';
+		} 
+		
+	img {
+		border: 3px solid #ddd;
+		border-radius: 5px;
+		padding: 5px;
+		width: 400px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	
+		}
+		
+		
+	.participe li { 
+		font-size: 15px;
+		text-align:left;
+		padding-left: 30px;
+		font-family: 'Comic Sans MS', 'Arial Black', 'Calibri';
+		}
+
+	
+	.menu li {
+		margin: 15px;
+		font-size: 28px;
+		text-align: center;
+		display: inline;
+		}
+		
+		
+	.image img{
+		border: 3px solid #ddd;
+		border-radius: 5px;
+		padding: 5px;
+		width: 1250px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto; 
+	}
+	
+	.float-left {
+		float: left;
+		margin: 70px;
+		
+	}
+		
+	
+	.animal img { 
+		border: 3px solid #ddd;
+		border-radius: 5px;
+		padding: 5px;
+		width: 500px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;}
+		
+	.liste li { 
+		font-size: 15px;
+		text-align:center;
+		padding-left: 30px;
+		font-family: 'Comic Sans MS', 'Arial Black', 'Calibri';
+		}
+
+
+
+	
+
